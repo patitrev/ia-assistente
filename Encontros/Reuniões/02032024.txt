@@ -1,0 +1,10 @@
+Nesta primeira reunião foram levantadas as dúvidas da equipe com questão 
+a o que será o projeto, organizado as questões que serão feitas à empresa
+na primeira reunião do dia 04/03/2024.
+Ficamos com a seguinte extratégia para a reunião:
+Pedir como a empresa lida com esse problema no momento;
+Se a empresa já possui um conjunto de regras documentado para dar início
+ao sistema especialista;
+A quem esse sistema irá atender;
+Se precisa ser feita a integração com algum sistema existente;
+Se a empresa tem preferência por uma tecnologia.
