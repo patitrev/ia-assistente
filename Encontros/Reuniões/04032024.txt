@@ -1,0 +1,18 @@
+Primeira reunião com a empresa 04/03/2024
+Não será um sistema especialista;
+A ideia da empresa é  criar uma API que faça as vezes de um funcioário 
+que hoje em dia auxilia as empresas a responder da melhor maneira um 
+questionário utilizado para fazer o diagnóstico empresarial, isso tudo 
+agora é feito na mão, porém a DotSe já está trabalhando em uma ferramenta
+para automatizar isso.
+O projeto que nós teremos que fazer é uma IA, que utilize 
+linguagem natural para auxiliar os clientes com as perguntas, caso seja 
+necessário. Exemplo: cliente não sabe o que exatemente responder, a IA pode
+ajudar com alguns exemplos ou explicando melhor a pergunta.
+Foi passado também pelo Marcelo (desenvolvedor da DotSe) que poderiamos 
+utilizar o https://huggingface.co/ que já tem algo pronto neste sentido,
+segundo ele precisamos apenas passar um PDF com as informações e rodar, 
+então seria o trabalho apenas de criar a API a partir disso.
+Também surgiu a indicação de trabalharmos com a ferramenta FastAPI e o padrão JWT;
+Ficou definido de trabalharmos em cima das informações que nos foram 
+dadas e trazer algumas ideias na quinta 07/03/2024
