@@ -1,0 +1,18 @@
+Segunda reunião com a empresa
+
+A equipe trouxe os resultados das pesquisas feitas nos últimos 
+três dias, desde a última reunião, os pensamentos estão mais 
+alinhados, foi acordado durante a reunião um rumo mais especifíco 
+para o projeto.
+A ideia central é não especificar a IA para atender somente a
+um questionário e sim produzir uma API que possa ser carregada 
+com a documentação de qualquer produto da empresa, que auxilie 
+os clientes a responder quaisquer tipo de questionário.
+Nos passaram os documentos da empresa para carregar em alguns 
+códigos de IA prontos e assim testar qual atende melhor a essa
+funcionalidade.
+A empresa relatou que gostaria que além da conversação em texto
+com no chatbot tivesse entrada de voz para facilitar o dia-a-dia
+do usuário.
+Foi sugerido usarmos o Google Colab agora no início para agilizar 
+os testes.
