@@ -1,0 +1,8 @@
+Terceira reunião com a empresa
+
+o escopo inicial do projeto é apenas ajudar o cliente caso este solicite ajuda
+na resolução do questionário da apostila ESTRATÉGIA
+as outras apostilas são apenas um demontrativo de onde serão usadas
+as repostas deste questionário, mas a empresa ficou de nos passar 
+alguns modelos de respostas para avaliarmos a acuraracia da IA, se ela
+está indicando o caminho correto para o usuário.
