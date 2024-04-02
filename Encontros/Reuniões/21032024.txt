@@ -1,0 +1,9 @@
+Quarta reunião com a empresa
+Estão sendo feitos testes no Jupyter com alguns códigos de IA
+prontos e alguns Pdfs, mais para ter uma ideia de como vai 
+funcionar, mas a ideia é criar um padrão de Pdf para alimentar
+essa IA e fazer um tratamento na entrada, separando cada tipo 
+de informação para passar para o banco e conseguir extrair
+todas as informações do documento e entender os contextos e
+em que nível o cliente já chegou no documento quando este
+solicitar ajuda.
