@@ -1,0 +1,8 @@
+Oitava reunião de orientação
+
+Essa semana testamos o uso do Chat GPT para solucionar o case
+Pesquisamos de quais maneiras ele interage com os dados que são passados,
+se o chat tem memoria, se é possível utilizar um contexto.
+Ficou decidido que na próxima iremos gerar o arquivo de prompt completion
+para usar na ferramenta que for definida, com base nos arquivos que a 
+empresa disponibilizou.

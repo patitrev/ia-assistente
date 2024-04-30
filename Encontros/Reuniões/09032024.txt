@@ -1,6 +1,12 @@
 Segunda reunião com o orientador
 
 Passamos o que foi conversado até então com a empresa
+o que no começo era para ser um sistema especialista 
+acabou se tornando o uso de uma IA na empresa, a empresa
+não sabe muito bem como isso será feito, mas tem a ideia 
+de pegar uma documentação sobre o assunto de cada produto 
+que eles tem, jogar para a IA, fazer ela conhecer o assunto
+e usar em cada produto da empresa
 Precisamos de exemplos para treinar a IA?
-Esses documentos existem ou vamos criar ficticios?
+Esses documentos existem ou vamos criar ficticios? 
 Jacson se disponibilizou a acompanhar a próxima reunião com a DotSe
