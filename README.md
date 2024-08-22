@@ -35,15 +35,17 @@ Passo a passo para rodar a aplicação:
 ========
 3º Passo
 ========
-	- Após o 2º passo, você digitará o seguinte comando:
+	- Após o 2º passo, você digitará o seguinte comando no terminal do VSCode:
 
 	----------------------
 	streamlit run app22.py
 	----------------------
 	
-	- Esse comando iniciará a nossa tela em HTML (localhost) para que você possa subir PDFs e fazer perguntas.
+	- Esse comando iniciará uma tela em HTML (localhost) para que você possa subir PDFs e fazer perguntas.
 
 ========
 4º Passo
 ========
 	- Suba um PDF ao site, para que ele possa ler. Após isso, pode fazer qualquer pergunta referente a esse PDF, que ele responderá com êxito.
+
+	- OBS: Quanto mais formatado o PDF fora, mais coerente será a resposta do assistente.
