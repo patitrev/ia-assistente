@@ -1,1 +1,10 @@
 Terceira reunião de orientação
+
+Foi conversado com a empresa durante a semana , a mesma se prontificou a 
+disponibilizar os documentos com os dados obtidos nas consultorias de 
+diagnóstico empresarial que é um dos produtos que eles fonecem
+iremos nos focar nesse produto apenas em um primeiro momento
+Alguns testes foram feitos utilizando bibliotecas gratuítas de IA encontradas 
+no https://huggingface.co/
+Iremos focar apenas no produto de uma IA que realize essa consultoria daqui
+para frente, faremos mais testes com essas e outras bibliotecas dentro do site.
