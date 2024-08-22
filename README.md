@@ -48,4 +48,4 @@ Passo a passo para rodar a aplicação:
 ========
 	- Suba um PDF ao site, para que ele possa ler. Após isso, pode fazer qualquer pergunta referente a esse PDF, que ele responderá com êxito.
 
-	- OBS: Quanto mais formatado o PDF fora, mais coerente será a resposta do assistente.
+	- OBS: Quanto mais formatado o PDF for, mais coerente será a resposta do assistente.
